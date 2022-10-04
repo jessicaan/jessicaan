@@ -7,7 +7,7 @@
 
 ###### I'm 27 years old, and live in Brazil! :brazil:. 
 
-###### I graduated in International Business and started to work on a IT company focused on international bussines. There I learned many many things and devoloped my interest and passion for coding! I started learning to code and then I decided to go hardcore :joy:. In this year I started my MBA in Artificial Intelligence while working in other projects.
+###### I graduated in International Business and started to work on a IT company focused on international busines. There I learned many many things and devoloped my interest and passion for coding! I started learning to code and then I decided to go hardcore :joy:. In this year I started my MBA in Artificial Intelligence while working in other projects.
 
 ###### I know I'm still very young in the coding world :earth_americas: , but I hope to catch up with the big guys very soon!!:rocket: 
 
