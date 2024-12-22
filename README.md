@@ -29,10 +29,5 @@ I finished my MBA in Artificial Intelligence in 2023 and now I'm creating my own
 
 
 
-##### Git's Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=jessicaan&theme=darcula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicaan&label=Profile%20views&color=0e75b6&style=flat" alt="jessicaan" /> </p>
