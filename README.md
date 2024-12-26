@@ -5,7 +5,7 @@
 
 ##### A little about me and how my career started
 
-###### I'm 29 years old, and live in Brazil! :brazil:. 
+###### I'm 30 years old, and live in Brazil! :brazil:. 
 
 ###### I have a degree in International Business and started to work on a IT company focused on international busines. Because of my job at the time, I learned many things and devoloped my interest and passion for coding! Thus, I started learning to code and then I decided to go hardcore :joy:.
 I finished my MBA in Artificial Intelligence in 2023 and now I'm creating my own millionaire project!!
