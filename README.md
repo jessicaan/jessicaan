@@ -8,7 +8,7 @@ I'm 30 years old, proudly Brazilian 🇧🇷, and passionate about turning ideas
 
 I hold a degree in **International Business**, but my story took a turn when I started working in an IT company focused on global operations. That’s where I discovered my curiosity for tech – and it quickly became a passion. I dove deep, learned to code, and never stopped since. 💻✨
 
-I completed an **MBA in Artificial Intelligence** in 2023 and, today, I work on **building my own tech startups**, leading teams, designing smart solutions, and developing platforms from zero to launch. I'm also managing **three jobs** (yes, you read that right) and still finding energy to build products I'm proud of.
+I completed an **MBA in Artificial Intelligence** in 2023 and, today, I work on **building my own tech startups**, leading teams, designing smart solutions, and developing platforms from zero to launch.
 
 My dream? To create a company that becomes a reference in **innovation, automation and impact**. And I’m already on the way. 🚀
 
