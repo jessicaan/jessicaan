@@ -4,13 +4,37 @@
 
 ##### 💡 A little about me
 
-I'm 30 years old, proudly Brazilian 🇧🇷, and passionate about turning ideas into tech solutions that **actually change people's lives**.
+I'm 30 years old, proudly Brazilian 🇧🇷, and passionate about transforming ideas into **real tech solutions** that make a difference in people's lives.
 
-I hold a degree in **International Business**, but my story took a turn when I started working in an IT company focused on global operations. That’s where I discovered my curiosity for tech – and it quickly became a passion. I dove deep, learned to code, and never stopped since. 💻✨
+I hold a degree in **International Business**, but my journey took a new direction when I started working at an IT company with a global reach. That’s where I discovered my love for technology — what began as curiosity quickly became my purpose. I learned to code, embraced every challenge, and never looked back. 💻✨
 
-I completed an **MBA in Artificial Intelligence** in 2023 and, today, I work on **building my own tech startups**, leading teams, designing smart solutions, and developing platforms from zero to launch.
+In 2023, I completed an **MBA in Artificial Intelligence**, and today I dedicate myself to **building my own startups**, leading teams, designing intelligent systems, and developing complete platforms from concept to launch.
 
-My dream? To create a company that becomes a reference in **innovation, automation and impact**. And I’m already on the way. 🚀
+My dream? To build a company recognized for **innovation, automation, and positive impact** — and I’m already on that path. 🚀
+
+---
+
+##### ⚙️ My specialties
+
+- **Frontend Development:** Next.js, React, TypeScript, TailwindCSS, Redux, Shadcn UI  
+- **Backend & Databases:** Node.js, Prisma, PostgreSQL, Supabase, AWS Lambda  
+- **AI & Automation:** OpenAI API, LLM agents, AI chat interfaces, workflow automation  
+- **Design & Product:** UX/UI design, wireframing, product ownership, agile management  
+- **Other Skills:** Firebase, Cognito + Amplify, REST APIs, integrations with CRMs and LMSs  
+
+---
+
+##### 🧩 Freelance Experience
+
+Alongside my main projects, I’ve also worked as a **freelance developer and consultant**, helping companies and entrepreneurs bring their ideas to life.  
+Some highlights include:
+
+- Developing **custom CRM systems** for small and medium businesses  
+- Building **landing pages and web apps** focused on conversion and scalability  
+- Creating **automation flows** that connect platforms like Zoho, HubSpot, and WhatsApp Business  
+- Supporting startups in **UI redesigns, system integrations, and product strategy**  
+
+Each project taught me something new — about technology, business, and how to turn challenges into efficient digital solutions. 💡
 
 ---
 
@@ -36,15 +60,15 @@ My dream? To create a company that becomes a reference in **innovation, automati
 
 ---
 
-##### 🧠 Currently working on:
+##### 🧠 Currently Working On & Recently Delivered Projects
 
-- A **self-service platform** for pet shops, focused on automation and efficiency 🐾
-- A **cybersecurity training platform** for companies 🛡️
-- A **meeting assistant AI**, recording and summarizing conversations automatically 🤖
-- A **CRM platform** with automated notifications based on employees KPIs for a cleaning company
+- **GoodBoy** — A **self-service platform** for pet shops, designed to automate in-store sales and streamline operations 🐾  
+- **CleanTrack** — A **CRM solution** with automated WhatsApp notifications and KPI-based insights for a cleaning services company  
+- **JM Construtora** — A **fully integrated CRM platform** developed for a construction company, featuring complete automation from lead to delivery  
+- **Arkly** — A **multi-tenant modular CRM factory**, currently under development, focused on scalability, customization, and seamless user experience 
 
----
 
+--- 
 ##### 🌐 Let's connect!
 
 <div>
