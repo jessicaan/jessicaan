@@ -1,46 +1,34 @@
-# Jéssica Anecí
+# Jéssica Vieira
 
-#### 👋 Hello! Welcome to my GitHub profile!
-
-##### 💡 A little about me
-
-I'm 30 years old, proudly Brazilian 🇧🇷, and passionate about transforming ideas into **real tech solutions** that make a difference in people's lives.
-
-I hold a degree in **International Business**, but my journey took a new direction when I started working at an IT company with a global reach. That’s where I discovered my love for technology — what began as curiosity quickly became my purpose. I learned to code, embraced every challenge, and never looked back. 💻✨
-
-In 2023, I completed an **MBA in Artificial Intelligence**, and today I dedicate myself to **building my own startups**, leading teams, designing intelligent systems, and developing complete platforms from concept to launch.
-
-My dream? To build a company recognized for **innovation, automation, and positive impact** — and I’m already on that path. 🚀
+#### 👋 Building products, systems, and companies.
 
 ---
 
-##### ⚙️ My specialties
+### About me
 
-- **Frontend Development:** Next.js, React, TypeScript, TailwindCSS, Redux, Shadcn UI  
-- **Backend & Databases:** Node.js, Prisma, PostgreSQL, Supabase, AWS Lambda  
-- **AI & Automation:** OpenAI API, LLM agents, AI chat interfaces, workflow automation  
-- **Design & Product:** UX/UI design, wireframing, product ownership, agile management  
-- **Other Skills:** Firebase, Cognito + Amplify, REST APIs, integrations with CRMs and LMSs  
+I’m a Brazilian Product Engineer and Startup Builder focused on turning complex ideas into scalable, real-world software.
+My background is in International Business, but I transitioned into tech after working in a global IT environment, where I discovered that building systems wasn’t just a skill, it was leverage.
+Since then, I’ve been operating at the intersection of engineering, product, and business.
+I don’t just write code. I design systems, define architecture, and ship products end to end.
+In 2023, I completed an MBA in Artificial Intelligence, and today I focus on building multi-tenant SaaS platforms, automation systems, and AI-powered products.
 
----
-
-##### 🧩 Freelance Experience
-
-Alongside my main projects, I’ve also worked as a **freelance developer and consultant**, helping companies and entrepreneurs bring their ideas to life.  
-Some highlights include:
-
-- Developing **custom CRM systems** for small and medium businesses  
-- Building **landing pages and web apps** focused on conversion and scalability  
-- Creating **automation flows** that connect platforms like Zoho, HubSpot, and WhatsApp Business  
-- Supporting startups in **UI redesigns, system integrations, and product strategy**  
-
-Each project taught me something new — about technology, business, and how to turn challenges into efficient digital solutions. 💡
+Currently, I’m building companies, not just projects.
 
 ---
 
-##### 🧰 Technologies & Tools
+### What I do
 
-<div style="display: flex; gap: 10px;">
+* Design and build full-stack SaaS platforms from scratch
+* Architect multi-tenant systems with strong data isolation using RLS and RBAC
+* Develop real-time applications such as chat, notifications, and operational systems
+* Implement AI-driven features and automation workflows
+* Lead product decisions with a strong business and UX mindset
+
+---
+
+### Tech stack
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
@@ -53,23 +41,36 @@ Each project taught me something new — about technology, business, and how to 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" width="40" height="40"/>
-          
-          
-
 </div>
 
 ---
 
-##### 🧠 Currently Working On & Recently Delivered Projects
+### Experience
 
-- **GoodBoy** — A **self-service platform** for pet shops, designed to automate in-store sales and streamline operations 🐾  
-- **CleanTrack** — A **CRM solution** with automated WhatsApp notifications and KPI-based insights for a cleaning services company  
-- **JM Construtora** — A **fully integrated CRM platform** developed for a construction company, featuring complete automation from lead to delivery  
-- **Arkly** — A **multi-tenant modular CRM factory**, currently under development, focused on scalability, customization, and seamless user experience 
+I’ve worked as a freelance developer, product engineer, and consultant, helping companies build and scale digital products.
 
+* Built custom CRMs and internal systems
+* Developed high-conversion web platforms
+* Created automation pipelines integrating multiple services
+* Supported startups with product strategy, UX, and architecture
 
---- 
-##### 🌐 Let's connect!
+---
+
+### Philosophy
+
+I believe software should:
+
+* Solve real operational problems
+* Be scalable from day one
+* Be designed with business impact in mind
+
+And most importantly:
+
+Build things that actually get used.
+
+---
+
+### Connect
 
 <div>
   <a href="https://instagram.com/jessicaaneci" target="_blank">
@@ -89,4 +90,4 @@ Each project taught me something new — about technology, business, and how to 
   <img src="https://komarev.com/ghpvc/?username=jessicaan&label=Profile%20views&color=0e75b6&style=flat" alt="jessicaan" />
 </p>
 
-> *"The best way to predict the future is to build it."* – Let's build something amazing together! 💜
+"The best way to predict the future is to build it."
