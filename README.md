@@ -28,11 +28,9 @@ Currently, I’m building companies, not just projects.
 
 ### Tech stack
 
-### Tech stack
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,firebase,tailwind,py,postgres,aws,supabase" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,firebase,tailwind,py,postgres,aws,supabase,prisma" />
   </a>
 </p>
 
